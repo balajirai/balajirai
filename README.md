@@ -46,8 +46,8 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=balajirai&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=0D1117" alt="balajirai" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balajirai&theme=dark" alt="balajirai" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajirai&theme=dark&include_all_commits=false&count_private=false&layout=compact" alt="balaji" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=balajirai&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=ffffff&bg_color=0D1117" alt="balajirai" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balajirai&title_color=ffffff&icon_color=34abeb&text_color=ffffff&bg_color=0D1117" alt="balajirai" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajirai&title_color=ffffff&icon_color=34abeb&text_color=ffffff&bg_color=0D1117&include_all_commits=false&count_private=false&layout=compact" alt="balaji" />
 
 

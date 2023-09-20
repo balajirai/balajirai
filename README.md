@@ -53,6 +53,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balajirai&theme=dark" alt="balajirai" />
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajirai&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="balajirai" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajirai&theme=dark&include_all_commits=false&count_private=false&layout=compact" alt="balajirai" />
 </p>
 

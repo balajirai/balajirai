@@ -10,7 +10,7 @@
 - Thrives in dynamic team environments that foster creativity and innovation.
 - Open for collaboration on web development and data structure discussions.
 
-<h3 align="left">Tools and Technology :</h3>
+<h3 align="left">Tools and Technologies :</h3>
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>

@@ -4,7 +4,7 @@
 
 <h3 align="left">Tools and Technology :</h3>
 
-<p align="left"> 
+<div display="flex" style="padding=5px"> 
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 
@@ -43,7 +43,7 @@
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 
-</p>
+</div>
 
 <div display=flex >
 
@@ -53,6 +53,9 @@
 
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balajirai&theme=dark" alt="balajirai" />
+</p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajirai&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="balajirai" />
 </p>
 
 </div>

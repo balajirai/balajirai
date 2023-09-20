@@ -2,6 +2,15 @@
 
 <h3 align="center">A dedicated software developer and competitive programmer</h3>
 
+- Passionate about creating efficient and user-friendly web solutions.
+- Skilled in both front-end and back-end development.
+- Dedicated to delivering high-quality projects that balance functionality and aesthetics.
+- Experienced in optimizing algorithms and data structures for enhanced performance.
+- Actively participated in collaborative projects and hackathons.
+- Thrives in dynamic team environments that foster creativity and innovation.
+- Enthusiastic about continuous learning and sharing knowledge within the tech community.
+- Open to connecting and collaborating on web development and data structure discussions.
+
 <h3 align="left">Tools and Technology :</h3>
 
 <p align="left">

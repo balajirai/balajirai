@@ -1,5 +1,6 @@
 # <h1 align="center">Balaji Rai</h1>
 
+
 <h3 align="center">A dedicated software developer and competitive programmer</h3>
 
 - Passionate about creating efficient and user-friendly web solutions.

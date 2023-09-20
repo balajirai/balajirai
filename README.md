@@ -4,12 +4,10 @@
 
 - Passionate about creating efficient and user-friendly web solutions.
 - Skilled in both front-end and back-end development.
-- Dedicated to delivering high-quality projects that balance functionality and aesthetics.
 - Experienced in optimizing algorithms and data structures for enhanced performance.
-- Actively participated in collaborative projects and hackathons.
+- Actively participate in collaborative projects and hackathons.
 - Thrives in dynamic team environments that foster creativity and innovation.
-- Enthusiastic about continuous learning and sharing knowledge within the tech community.
-- Open to connecting and collaborating on web development and data structure discussions.
+- Open for collaboration on web development and data structure discussions.
 
 <h3 align="left">Tools and Technology :</h3>
 
@@ -17,6 +15,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>

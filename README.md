@@ -1,1 +1,1 @@
-<img src="https://githubreadme.netlify.app/" />
+https://githubreadme.netlify.app/

@@ -1,4 +1,4 @@
-# <h1 align="center">Balaji Rai</h1>
+<h1 align="center">Balaji Rai</h1>
 
 
 <h3 align="center">A student, competitive programmer and software developer</h3>

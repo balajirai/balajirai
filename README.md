@@ -9,6 +9,7 @@
 - Actively participate in collaborative projects and hackathons.
 - Thrives in dynamic team environments that foster creativity and innovation.
 - Open for collaboration on web development and data structure discussions.
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balajirai/)
 
 <h3 align="left">Tools and Technologies :</h3>
 
@@ -38,7 +39,3 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=balajirai&hide=stars&hide_border=true&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=CFD6DB&bg_color=0D1117" alt="balajirai" />&nbsp; &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajirai&hide_border=true&title_color=ffffff&icon_color=34abeb&text_color=CFD6DB&bg_color=0D1117&include_all_commits=false&count_private=false&layout=compact" alt="balaji" />
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balajirai/)
-
-

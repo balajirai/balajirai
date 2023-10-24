@@ -38,3 +38,7 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=balajirai&hide=stars&hide_border=true&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=CFD6DB&bg_color=0D1117" alt="balajirai" />&nbsp; &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajirai&hide_border=true&title_color=ffffff&icon_color=34abeb&text_color=CFD6DB&bg_color=0D1117&include_all_commits=false&count_private=false&layout=compact" alt="balaji" />
+
+<div>
+  ![(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balajirai/)
+</div>

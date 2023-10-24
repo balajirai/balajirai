@@ -9,8 +9,6 @@
 - Actively participate in collaborative projects and hackathons.
 - Thrives in dynamic team environments that foster creativity and innovation.
 - Open for collaboration on web development and data structure discussions.
-  
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balajirai/)
 
 <h3 align="left">Tools and Technologies :</h3>
 

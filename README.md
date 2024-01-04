@@ -1,6 +1,6 @@
 <h1 align="center">Balaji Rai</h1>
 
-<p align="left">
+<p align="center">
 <img src="https://profile-counter.glitch.me/balajirai/count.svg" alt="hit counter">
 </p>
 

@@ -1,8 +1,9 @@
 <h1 align="center">Balaji Rai</h1>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://profile-counter.glitch.me/balajirai/count.svg" alt="hit counter">
 </p>
+-->
 
 <h3 align="center">A student, competitive programmer and software developer</h3>
 

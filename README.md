@@ -1,7 +1,7 @@
 <h1 align="center">Balaji Rai</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&center=true&vCenter=true&pause=500&color=E6EDF3&random=false&lines=Student;Competitive+Programmer;Software+Developer" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&center=true&vCenter=true&pause=300&color=E6EDF3&random=false&lines=Student;Competitive+Programmer;Software+Developer" alt="" />
 </p>
 
 <!-- <p align="center">

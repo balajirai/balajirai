@@ -12,7 +12,7 @@
 - Experienced in optimizing algorithms and data structures for enhanced performance.
 - Actively participate in collaborative projects and hackathons.
 - Thrives in dynamic team environments that foster creativity and innovation.
-- Open for collaboration on web development and data structure discussions.
+- Open for collaboration. Email : balajirai@yahoo.com
 
 <h3 align="left">Tools and Technologies :</h3>
 

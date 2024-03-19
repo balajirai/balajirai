@@ -18,7 +18,7 @@
 - Experienced in optimizing algorithms and data structures for enhanced performance.
 - Actively participate in collaborative projects and hackathons.
 - Thrives in dynamic team environments that foster creativity and innovation.
-- Open for collaboration. Email : balajirai@yahoo.com
+- Email : balajirai@yahoo.com
 
 <h3 align="left">Tools and Technologies :</h3>
 
@@ -47,5 +47,5 @@
 
 
 
-<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=balajirai&hide=stars&hide_border=true&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=CFD6DB&bg_color=0D1117" alt="balajirai" /></a>&nbsp; &nbsp; <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajirai&hide_border=true&title_color=ffffff&icon_color=34abeb&text_color=CFD6DB&bg_color=0D1117&include_all_commits=false&count_private=false&layout=compact" alt="balaji" /></a>
+<a href="https://github.com/balajirai?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=balajirai&hide=stars&hide_border=true&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=CFD6DB&bg_color=0D1117" alt="balajirai" /></a>&nbsp; &nbsp; <a href="https://github.com/balajirai?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajirai&hide_border=true&title_color=ffffff&icon_color=34abeb&text_color=CFD6DB&bg_color=0D1117&include_all_commits=false&count_private=false&layout=compact" alt="balaji" /></a>
 

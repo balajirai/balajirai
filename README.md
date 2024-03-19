@@ -1,11 +1,17 @@
 <h1 align="center">Balaji Rai</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&center=true&vCenter=true&pause=1000&color=E6EDF3&random=false&lines=Student;Competitive+Programmer;Software+Developer" alt="" />
+</p>
+
 <!-- <p align="center">
 <img src="https://profile-counter.glitch.me/balajirai/count.svg" alt="hit counter">
 </p>
 -->
 
+<!--
 <h3 align="center">A student, competitive programmer and software developer</h3>
+-->
 
 - Passionate about creating efficient and user-friendly web solutions.
 - Skilled in both front-end and back-end development.

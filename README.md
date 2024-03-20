@@ -46,7 +46,5 @@
 
 
 
-<p align="center">
 <a href="https://github.com/balajirai?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=balajirai&hide=stars&hide_border=true&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=CFD6DB&bg_color=00000000" alt="balajirai" /></a>&nbsp; &nbsp; <a href="https://github.com/balajirai?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajirai&hide_border=true&title_color=ffffff&icon_color=34abeb&text_color=CFD6DB&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact" alt="balaji" /></a>
-</p>
 

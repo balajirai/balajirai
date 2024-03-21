@@ -8,7 +8,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&center=true&vCenter=true&pause=300&color=FFFFFF&random=false&lines=Student;Competitive+Programmer;Software+Developer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&center=true&vCenter=true&pause=300&color=E6EDF3&random=false&lines=Student;Competitive+Programmer;Software+Developer" alt="" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&center=true&vCenter=true&pause=300&color=000000&random=false&lines=Student;Competitive+Programmer;Software+Developer" alt="" />
   </picture>
 </p>
 

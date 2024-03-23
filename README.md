@@ -7,8 +7,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&center=true&vCenter=true&pause=300&color=FFFFFF&random=false&lines=Student;Competitive+Programmer;Software+Developer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&center=true&vCenter=true&pause=300&color=000000&random=false&lines=Student;Competitive+Programmer;Software+Developer" alt="" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&center=true&vCenter=true&pause=300&color=FFFFFF&random=false&lines=Student;Competitive+Programmer;Software+Developer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&center=true&vCenter=true&pause=300&color=000000&random=false&lines=Student;Competitive+Programmer;Software+Developer" alt="" />
   </picture>
 </p>
 
@@ -53,10 +53,10 @@
 </p>
 
 
-
+<!--
 <a href="https://github.com/balajirai?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=balajirai&hide=stars&hide_border=true&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=CFD6DB&bg_color=00000000" alt="balajirai" /></a>
 <a href="https://github.com/balajirai?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajirai&hide_border=true&title_color=ffffff&icon_color=34abeb&text_color=CFD6DB&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact" alt="balajirai" /></a>
-
+-->
 
 <!--
 <p align="center" >
@@ -66,4 +66,22 @@
   </picture>
 </p>
 -->
+
+<p align="left" >
+  
+  <a href="https://github.com/balajirai?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=balajirai&hide=stars&hide_border=true&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=CFD6DB&bg_color=00000000" alt="balajirai">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=balajirai&hide=stars&hide_border=true&show_icons=true&title_color=000000&icon_color=34abeb&text_color=000000&bg_color=00000000" alt="balajirai" />
+    </picture>
+  </a>
+  
+  <a href="https://github.com/balajirai?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=balajirai&hide_border=true&title_color=ffffff&icon_color=34abeb&text_color=CFD6DB&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact" alt="balajirai">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajirai&hide_border=true&title_color=000000&icon_color=34abeb&text_color=000000&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact" alt="balajirai" alt="balajirai" />
+    </picture>
+  </a>
+  
+</p>
 

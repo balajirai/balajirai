@@ -34,7 +34,7 @@
 <h3 align="left">Tools & Technologies</h3>
 
 <a href="https://balajirai.com">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,postgres,mongodb,vim,git,linux,docker,kubernetes,gcp&perline=20" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,postgres,mongodb,vim,git,linux,docker,kubernetes,gcp&perline=20"  width="700"/>
 </a>
 
 <!--
